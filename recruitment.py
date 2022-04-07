@@ -65,6 +65,6 @@ def main():
         print('You have been rejected, ' + cv["name"])
 
 
-
+#new commment
 if __name__ == "__main__":
     main()
